@@ -22,7 +22,7 @@ jobs:
         os: [ubuntu-latest, windows-latest]
         config: [donkey, three-little-pigs, omnomcom]
     steps:
-      - uses: actions/checkout@v6.0.2
+      - uses: actions/checkout@v6.0.3
       - name: Setup Node.js
         uses: actions/setup-node@v6
         with:

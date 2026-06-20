@@ -14,8 +14,8 @@
     "prettier:write": "npx prettier --write ."
   },
   "devDependencies": {
-    "electron": "^42.3.3",
-    "electron-builder": "^26.15.0"
+    "electron": "^42.4.0",
+    "electron-builder": "^26.15.3"
   },
   "dependencies": {
     "@ghostery/adblocker-electron": "^2.18.0",

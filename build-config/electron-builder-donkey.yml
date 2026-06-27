@@ -1,6 +1,4 @@
 appId: com.electron.donkey
-desktopName: com.electron.donkey.desktop
-
 productName: donkey
 
 files:
@@ -25,7 +23,6 @@ linux:
     - AppImage
     - deb
   category: Utility
-  syncDesktopName: true
 
 publish:
   - provider: github

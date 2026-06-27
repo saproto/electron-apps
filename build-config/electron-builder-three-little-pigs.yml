@@ -1,5 +1,4 @@
 appId: com.electron.three-little-pigs
-desktopName: com.electron.three-little-pigs.desktop
 productName: three-little-pigs
 
 files:
@@ -24,7 +23,6 @@ linux:
     - AppImage
     - deb
   category: Utility
-  syncDesktopName: true
 
 publish:
   - provider: github

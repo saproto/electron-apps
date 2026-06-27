@@ -1,5 +1,4 @@
 appId: com.electron.omnomcom
-desktopName: com.electron.omnomcom.desktop
 productName: omnomcom
 
 files:
@@ -26,7 +25,6 @@ linux:
     - deb
   category: Utility
   icon: resources/omnomcom/omnomcom.png
-  syncDesktopName: true
 
 publish:
   - provider: github

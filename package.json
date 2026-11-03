@@ -1,6 +1,6 @@
 {
   "name": "three-little-pigs",
-  "version": "v1.9.47",
+  "version": "v1.9.48",
   "main": "main.js",
   "type": "module",
   "author": {
@@ -14,7 +14,7 @@
     "prettier:write": "npx prettier --write ."
   },
   "devDependencies": {
-    "electron": "^44.9.3",
+    "electron": "^45.1.0",
     "electron-builder": "^26.17.0"
   },
   "dependencies": {
